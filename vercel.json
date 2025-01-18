@@ -1,0 +1,15 @@
+{
+    "rewrites": [
+      {
+        "source": "/enged1",
+        "destination": "/index1.html"
+    
+      },
+     
+      {
+        "source": "/",
+        "destination": "/index.html"
+       
+      }
+    ]
+   }
